@@ -1,0 +1,5 @@
+# Ignorar arquivos de configuração que não devem ser commitados
+.env
+
+# Ignorar todos os diretórios __pycache__
+__pycache__/
